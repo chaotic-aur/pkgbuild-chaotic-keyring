@@ -3,7 +3,7 @@
 # Thanks for archlinuxcn's package that I've used as template!
 
 pkgname='chaotic-keyring'
-pkgver='20220803'
+pkgver='20230616'
 pkgrel=1
 pkgdesc='Chaotic-AUR PGP keyring'
 arch=('any')
